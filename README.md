@@ -1,0 +1,2 @@
+# medical-insurance-cost-prediction-Medical_insurance_prediction_regression_models.ipynb-README.md
+This project predicts medical insurance costs using multiple machine learning regression models. It includes data preprocessing, handling categorical variables with one-hot encoding, and comparing models such as Multiple Linear Regression, Polynomial Regression, SVR, Decision Tree, and Random Forest to evaluate their performance.
